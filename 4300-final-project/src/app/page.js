@@ -11,6 +11,7 @@ export default function Home() {
     <profile />
     <profile />
     <profile />
+    <H3>Welcome {user}</H3>
     </section>
   );
 }
