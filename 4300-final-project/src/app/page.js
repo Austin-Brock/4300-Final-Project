@@ -12,7 +12,7 @@ export default function Home() {
     <profile />
     <profile />
     <profile />
-    <h3>Welcome {usert}</h3>
+    <h3>Welcome {user}</h3>
     </section>
   );
 }
