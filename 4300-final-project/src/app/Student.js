@@ -1,7 +1,7 @@
 let student = {
     id: 1,
     img : "http://images4.fanpop.com/image/photos/22300000/Halle-Berry-2011-FiFi-Awards-halle-berry-22345769-1411-2000.jpg",
-    name : Austin,
+    name : "Austin",
     Major: "Computer Science"
 }
 
