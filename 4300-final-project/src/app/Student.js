@@ -8,9 +8,9 @@ let student = {
 const Student = () => {
     return (
         <div>
-            <img src ={student.img} width ="200px" alt="picture"></img>
+            <img src ={student.img} width ="200px" alt="picture"/>
             <h2>Nanme: {student.name}</h2>
             <P>Major: {student.Major}</P>
         </div>
-    )
-}
+    );
+};
