@@ -9,8 +9,10 @@ const Student = () => {
     return (
         <div>
             <img src ={student.img} width ="200px" alt="picture"/>
-            <h2>Nanme: {student.name}</h2>
-            <P>Major: {student.Major}</P>
+            <h2>Name: {student.name}</h2>
+            <p>Major: {student.Major}</p>
         </div>
     );
 };
+
+export default Student

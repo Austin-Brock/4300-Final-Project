@@ -9,9 +9,9 @@ export default function Home() {
     <section>
     <Student />
     <h1>{site}</h1>
-    <profile />
-    <profile />
-    <profile />
+    <Profile />
+    <Profile />
+    <Profile />
     <h3>Welcome {user}</h3>
     </section>
   );
